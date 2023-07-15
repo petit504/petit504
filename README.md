@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @petit504
+- 👋 Hi, I’m @stacy-jones
 - 👀 I’m interested in educational development
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on business development
