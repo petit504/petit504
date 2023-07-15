@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stacy-jones
 - 👀 I’m interested in educational development
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on business development
+- 💞️ I’m looking to collaborate on all things coding related
 - 📫 How to reach me petittours@gmail.com
 
 <!---
